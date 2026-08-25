@@ -63,6 +63,16 @@ This is an internal reasoning sequence, not a mandatory output template. A narro
 - **Urgency must be real.** Capacity, price changes, deadlines, supply constraints, or delay costs are used only when they actually exist.
 - **The seller keeps their own voice.** Direction and action are the default; complete scripts require an explicit request.
 
+## Library: 204 research titles, 403 high-relevance sources
+
+Xiaoguan first catalogued **204 books, courses, reports, regulations, and standards**, then curated the local corpus for sales relevance. The candidate pool was reduced from **34,486,518** to **16,802,204 Unicode characters** (−**51.3%**), retaining **403** high-relevance sources and producing **15,473** searchable chunks.
+
+<a href="./assets/library-catalog.svg">
+  <img src="./assets/library-catalog.svg" alt="Xiaoguan complete 204-title research catalog and corpus curation metrics">
+</a>
+
+The 204 entries are a research bibliography and course catalog; they do not mean that full copies of paid commercial works are included in this public repository. [**Open the complete text catalog →**](./docs/library-catalog.md)
+
 ## Quick start
 
 ### 1. Install the Skill
@@ -156,6 +166,8 @@ Hybrid indexing requires Python 3.10+, `numpy`, `fastembed`, and local copies of
 xiaoguan/
 ├── SKILL.md                         # Entry point, request routing, output rules
 ├── agents/openai.yaml               # Codex interface metadata
+├── assets/library-catalog.svg        # Visual map of all 204 catalog entries
+├── docs/library-catalog.md           # Complete searchable text catalog
 ├── references/
 │   ├── decision-analysis.md         # Buyer profiles and decision weights
 │   ├── persuasion-engine.md         # Belief, desire, urgency, and closing
@@ -192,10 +204,6 @@ The project does not currently publish CI, Releases, or coverage metrics, so thi
 ## Contributing
 
 If a buyer analysis is consistently wrong, a stage is routed poorly, or you have a reproducible improvement, open an [Issue](https://github.com/powerycy/xiaoguan/issues) or submit a Pull Request. Do not include real customer names, contact details, full private conversations, or confidential business information.
-
-## License
-
-This repository currently has no `LICENSE` file. Do not treat it as OSI-licensed open source or as granting commercial-use rights. Any future license terms will be defined by the actual repository files.
 
 ---
 

@@ -63,6 +63,16 @@
 - **紧迫性必须真实**：只有存在名额、价格调整、截止日期、供给能力或明确机会成本时才使用，不虚构稀缺。
 - **默认保留销售者自己的声音**：给判断、表达任务和动作，除非明确请求，否则不代写整段话术。
 
+## 资料库：204 项研究目录，403 份高相关资料
+
+销冠先建立了 **204 项书籍、课程、报告、法规与标准目录**，再对本地语料做相关性精简：从 **34,486,518** 个 Unicode 字符的候选池，优化到当前 **16,802,204** 个字符，减少 **51.3%**，保留 **403** 份高相关资料，建成 **15,473** 个可检索分片。
+
+<a href="./assets/library-catalog.svg">
+  <img src="./assets/library-catalog.svg" alt="销冠资料库204项完整研究目录与精简统计">
+</a>
+
+204 项是研究书目/课程目录索引，不代表付费商业作品全文被纳入公开仓库。[**查看完整文字目录 →**](./docs/library-catalog.md)
+
 ## 快速开始
 
 ### 1. 安装 Skill
@@ -156,6 +166,8 @@ python3 scripts/search_corpus.py \
 xiaoguan/
 ├── SKILL.md                         # 主入口、请求路由与输出规则
 ├── agents/openai.yaml               # Codex 界面元数据
+├── assets/library-catalog.svg        # 204 项资料库全景图
+├── docs/library-catalog.md           # 完整可搜索文字目录
 ├── references/
 │   ├── decision-analysis.md         # 客户画像与决策权重
 │   ├── persuasion-engine.md         # 确信、欲望、紧迫性与成交
@@ -192,10 +204,6 @@ xiaoguan/
 ## 参与项目
 
 如果你发现某类客户判断不准、销售阶段路由不合适，或有可复现的改进建议，欢迎提交 [Issue](https://github.com/powerycy/xiaoguan/issues) 或 Pull Request。请不要在 Issue 中上传真实客户姓名、联系方式、聊天全文或商业机密。
-
-## 许可证
-
-本仓库目前未提供 `LICENSE` 文件，因此不要把它视为已获得 OSI 开源许可或默认商业授权。后续许可证将以仓库实际文件为准。
 
 ---
 
