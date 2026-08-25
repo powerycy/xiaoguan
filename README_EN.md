@@ -71,8 +71,6 @@ Xiaoguan first catalogued **204 books, courses, reports, regulations, and standa
   <img src="./assets/library-catalog.svg" alt="Xiaoguan complete 204-title research catalog and corpus curation metrics">
 </a>
 
-The 204 entries are a research bibliography and course catalog; they do not mean that full copies of paid commercial works are included in this public repository. [**Open the complete text catalog →**](./docs/library-catalog.md)
-
 ## Quick start
 
 ### 1. Install the Skill
