@@ -1,0 +1,21 @@
+.DS_Store
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# Local customer data
+*.sqlite3
+*.sqlite3-*
+memory/
+客户档案/
+
+# Local RAG corpora, indexes, models, and vectors
+资料库/
+corpus/
+runtime/
+index/
+models/
+*.npy
+*.onnx

@@ -1,0 +1,4 @@
+interface:
+  display_name: "销冠"
+  short_description: "按当前需求提供客户判断、销售方向、成交动作与本地档案"
+  default_prompt: "使用 $xiaoguan 根据我当前的销售问题调用专业知识，给出客户判断、引导方向和下一动作；除非我明确需要，否则不代写话术。"
