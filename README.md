@@ -71,8 +71,6 @@
   <img src="./assets/library-catalog.svg" alt="销冠资料库204项完整研究目录与精简统计">
 </a>
 
-204 项是研究书目/课程目录索引，不代表付费商业作品全文被纳入公开仓库。[**查看完整文字目录 →**](./docs/library-catalog.md)
-
 ## 快速开始
 
 ### 1. 安装 Skill
