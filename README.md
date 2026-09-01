@@ -11,13 +11,14 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/powerycy/xiaoguan/stargazers"><strong>⭐ 如果销冠解决了你的实际销售问题，点亮 Star 方便收藏，也让更多销售发现它</strong></a>
+  <a href="https://github.com/shengjidaguai-china/xiaoguan/stargazers"><strong>⭐ 如果销冠解决了你的实际销售问题，点亮 Star 方便收藏，也让更多销售发现它</strong></a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/powerycy/xiaoguan/stargazers"><img src="https://img.shields.io/github/stars/powerycy/xiaoguan?style=flat-square" alt="GitHub Stars"></a>
-  <a href="https://github.com/powerycy/xiaoguan/issues"><img src="https://img.shields.io/github/issues/powerycy/xiaoguan?style=flat-square" alt="GitHub Issues"></a>
-  <a href="https://github.com/powerycy/xiaoguan/commits/main"><img src="https://img.shields.io/github/last-commit/powerycy/xiaoguan?style=flat-square" alt="Last Commit"></a>
+  <a href="https://github.com/shengjidaguai-china/xiaoguan/stargazers"><img src="https://img.shields.io/github/stars/shengjidaguai-china/xiaoguan?style=flat-square" alt="GitHub Stars"></a>
+  <a href="https://github.com/shengjidaguai-china/xiaoguan/issues"><img src="https://img.shields.io/github/issues/shengjidaguai-china/xiaoguan?style=flat-square" alt="GitHub Issues"></a>
+  <a href="https://github.com/shengjidaguai-china/xiaoguan/commits/main"><img src="https://img.shields.io/github/last-commit/shengjidaguai-china/xiaoguan?style=flat-square" alt="Last Commit"></a>
+  <a href="./LICENSE"><img src="https://img.shields.io/badge/license-PolyForm%20Noncommercial%201.0.0-blue?style=flat-square" alt="PolyForm Noncommercial License 1.0.0"></a>
   <a href="./SKILL.md"><img src="https://img.shields.io/badge/Codex-Skill-111827?style=flat-square" alt="Codex Skill"></a>
   <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3.10%2B-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python 3.10+"></a>
 </p>
@@ -76,7 +77,7 @@
 ### 1. 安装 Skill
 
 ```bash
-git clone https://github.com/powerycy/xiaoguan.git ~/.codex/skills/xiaoguan
+git clone https://github.com/shengjidaguai-china/xiaoguan.git ~/.codex/skills/xiaoguan
 ```
 
 已经安装过时：
@@ -201,8 +202,14 @@ xiaoguan/
 
 ## 参与项目
 
-如果你发现某类客户判断不准、销售阶段路由不合适，或有可复现的改进建议，欢迎提交 [Issue](https://github.com/powerycy/xiaoguan/issues) 或 Pull Request。请不要在 Issue 中上传真实客户姓名、联系方式、聊天全文或商业机密。
+销冠现已迁入[升级打怪开源社区](https://github.com/shengjidaguai-china)，由 [@powerycy](https://github.com/powerycy) 负责维护。如果你发现某类客户判断不准、销售阶段路由不合适，或有可复现的改进建议，欢迎提交 [Issue](https://github.com/shengjidaguai-china/xiaoguan/issues) 或 Pull Request。新成员可以从带有 [`good first issue`](https://github.com/shengjidaguai-china/xiaoguan/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22) 标签的任务开始。
+
+请不要在 Issue 中上传真实客户姓名、联系方式、聊天全文或商业机密。社区贡献还应遵守[行为准则](https://github.com/shengjidaguai-china/.github/blob/main/CODE_OF_CONDUCT.md)和[参与规则](https://github.com/shengjidaguai-china/.github/blob/main/CONTRIBUTING.md)。
+
+## 许可证
+
+本项目采用 [PolyForm Noncommercial License 1.0.0](./LICENSE)。个人学习、研究、实验以及符合许可证定义的非商业用途可以使用、修改和分发；商业使用不在本许可证授权范围内，需要另行取得许可。
 
 ---
 
-如果销冠对你有用，可以 [点亮 Star](https://github.com/powerycy/xiaoguan/stargazers) 收藏项目；想跟进更新可 Watch，有问题或改进建议请直接提 Issue。
+如果销冠对你有用，可以 [点亮 Star](https://github.com/shengjidaguai-china/xiaoguan/stargazers) 收藏项目；想跟进更新可 Watch，有问题或改进建议请直接提 Issue。
