@@ -11,13 +11,14 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/powerycy/xiaoguan/stargazers"><strong>⭐ If Xiaoguan helps with a real sales problem, Star it for later and help other sellers discover it</strong></a>
+  <a href="https://github.com/shengjidaguai-china/xiaoguan/stargazers"><strong>⭐ If Xiaoguan helps with a real sales problem, Star it for later and help other sellers discover it</strong></a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/powerycy/xiaoguan/stargazers"><img src="https://img.shields.io/github/stars/powerycy/xiaoguan?style=flat-square" alt="GitHub Stars"></a>
-  <a href="https://github.com/powerycy/xiaoguan/issues"><img src="https://img.shields.io/github/issues/powerycy/xiaoguan?style=flat-square" alt="GitHub Issues"></a>
-  <a href="https://github.com/powerycy/xiaoguan/commits/main"><img src="https://img.shields.io/github/last-commit/powerycy/xiaoguan?style=flat-square" alt="Last Commit"></a>
+  <a href="https://github.com/shengjidaguai-china/xiaoguan/stargazers"><img src="https://img.shields.io/github/stars/shengjidaguai-china/xiaoguan?style=flat-square" alt="GitHub Stars"></a>
+  <a href="https://github.com/shengjidaguai-china/xiaoguan/issues"><img src="https://img.shields.io/github/issues/shengjidaguai-china/xiaoguan?style=flat-square" alt="GitHub Issues"></a>
+  <a href="https://github.com/shengjidaguai-china/xiaoguan/commits/main"><img src="https://img.shields.io/github/last-commit/shengjidaguai-china/xiaoguan?style=flat-square" alt="Last Commit"></a>
+  <a href="./LICENSE"><img src="https://img.shields.io/badge/license-PolyForm%20Noncommercial%201.0.0-blue?style=flat-square" alt="PolyForm Noncommercial License 1.0.0"></a>
   <a href="./SKILL.md"><img src="https://img.shields.io/badge/Codex-Skill-111827?style=flat-square" alt="Codex Skill"></a>
   <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3.10%2B-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python 3.10+"></a>
 </p>
@@ -76,7 +77,7 @@ Xiaoguan first catalogued **204 books, courses, reports, regulations, and standa
 ### 1. Install the Skill
 
 ```bash
-git clone https://github.com/powerycy/xiaoguan.git ~/.codex/skills/xiaoguan
+git clone https://github.com/shengjidaguai-china/xiaoguan.git ~/.codex/skills/xiaoguan
 ```
 
 To update an existing installation:
@@ -201,8 +202,14 @@ The project does not currently publish CI, Releases, or coverage metrics, so thi
 
 ## Contributing
 
-If a buyer analysis is consistently wrong, a stage is routed poorly, or you have a reproducible improvement, open an [Issue](https://github.com/powerycy/xiaoguan/issues) or submit a Pull Request. Do not include real customer names, contact details, full private conversations, or confidential business information.
+Xiaoguan is now hosted by the [Sheng Ji Da Guai open-source community](https://github.com/shengjidaguai-china) and maintained by [@powerycy](https://github.com/powerycy). If a buyer analysis is consistently wrong, a stage is routed poorly, or you have a reproducible improvement, open an [Issue](https://github.com/shengjidaguai-china/xiaoguan/issues) or submit a Pull Request. New contributors can start with tasks labeled [`good first issue`](https://github.com/shengjidaguai-china/xiaoguan/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22).
+
+Do not include real customer names, contact details, full private conversations, or confidential business information in an Issue. Community contributions must also follow the [Code of Conduct](https://github.com/shengjidaguai-china/.github/blob/main/CODE_OF_CONDUCT.md) and [contribution guidelines](https://github.com/shengjidaguai-china/.github/blob/main/CONTRIBUTING.md).
+
+## License
+
+This project is licensed under the [PolyForm Noncommercial License 1.0.0](./LICENSE). Personal study, research, experimentation, and other noncommercial purposes defined by the license are permitted. Commercial use requires separate permission.
 
 ---
 
-If Xiaoguan is useful, [Star the repository](https://github.com/powerycy/xiaoguan/stargazers) to keep it close. Watch for updates, or open an Issue with a concrete problem or improvement.
+If Xiaoguan is useful, [Star the repository](https://github.com/shengjidaguai-china/xiaoguan/stargazers) to keep it close. Watch for updates, or open an Issue with a concrete problem or improvement.
